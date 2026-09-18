@@ -10,7 +10,6 @@ and investigate security incidents.
 Work in Progress
 
 ### Completed
-- Fedora 43 host preparation
 - KVM/QEMU virtualization
 - libvirt
 - Isolated SOC-LAB network
